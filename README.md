@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning<br>
+🌱 I'm a jr frontend web developer<br>
 
 
 ## 🌐 Socials:
